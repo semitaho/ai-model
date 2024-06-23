@@ -1,4 +1,6 @@
 {
+  "description": "ai-model for content creation",
+  "type": "module",
   "dependencies": {
     "openai": "^4.52.0"
   }
